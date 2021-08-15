@@ -3,9 +3,6 @@ project(c++_in_action)
 
 set(CMAKE_CXX_STANDARD 11)
 
-
-add_executable(add start/add.cpp)
-
-add_executable(muilt_input start/muilt_input.cpp)
-
 add_executable(main main.cpp)
+
+add_executable(myfirst start/myfirst.cpp)
