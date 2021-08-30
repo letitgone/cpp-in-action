@@ -4,6 +4,11 @@
  */
 #include "stock00.h"
 
+/**
+ * g++ use_stock0.cpp stock00.cpp
+ *
+ * @return
+ */
 int main()
 {
     Stock fluffy_the_cat;
