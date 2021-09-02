@@ -20,3 +20,4 @@ add_executable(stock10 oop/stock1/stock10.cpp)
 add_executable(usestock1 oop/stock1/usestock1.cpp)
 
 set_target_properties(stock00h stock1 PROPERTIES LINKER_LANGUAGE CXX)
+add_executable(error1 exception/error1.cpp)
